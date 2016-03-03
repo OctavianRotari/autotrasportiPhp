@@ -10,6 +10,25 @@ function isCurrentPage($file_name){
 		echo '';
 	};
 }
+
+function sendEmail() {
+	if(isset($_POST['submit'])){
+		$name = $_POST['name'];
+		$email = $_POST['email'];
+		$text = $_POST['text'];
+		$message = "Completare tutti i campi " . $name . $email . $text;
+		if(empty($name) || empty($email) || empty($text)){
+			echo "<script type='text/javascript'>alert('$message')</script>";
+		} else {
+			$result = mail('octavianrotari@gmail.com', 'the subject', 'the message');
+			if(!$result){
+				echo "<h3>email not sent</h3>";
+			} else {
+				echo "<h3>email sent</h3>";
+			}
+		}
+	}
+}
 ?>
 
 

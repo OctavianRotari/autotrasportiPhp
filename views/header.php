@@ -4,29 +4,30 @@
       <head>
 	    <meta charset="UTF-8">
 	    <link rel="stylesheet" href="../css/bootstrap.css">
-	    <link rel="stylesheet" href="../css/bootstrap-responsive.css">
+	    <link rel="stylesheet" href="../css/bootstrap-theme.css">
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	    <title>Autotrasporti Rotari</title>
       </head>
-      <body>
-	    <script src="../js/jquery-1.12.1.min.js"></script>
-	    <script src="../js/bootstrap.js"></script>
-	    <div class="navbar navbar-fixed-top">
-		  <div class="navbar-inner">
-			<div class="container">
-			      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				    <span class="icon-th-list"></span>
-			      </a>
-			      <a href="#" class="brand">Autotrasporti Rotari</a>
-			      <div class="nav-collapse collapse">
-				    <ul class="nav pull-center">
-					  <li class="<?php isCurrentPage("index.php") ?>"><a href="index.php">Home</a></li>
-					  <li class="<?php isCurrentPage("flotta.php")?>"><a href="flotta.php">Flotta</a></li>
-					  <li class="<?php isCurrentPage("storia.php")?>"><a href="storia.php">Storia</a></li>
-					  <li class="<?php isCurrentPage("contatti.php")?>"><a href="contatti.php">Contatti</a></li>
-				    </ul>
-			      </div>
-			</div>
-		  </div>
-	    </div>
-
+      <script src="../js/jquery-1.12.1.min.js"></script>
+      <script src="../js/bootstrap.js"></script>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.php">Autotrasporti Rotari</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+	    <ul class="nav navbar-nav">
+		  <li role="presentation" class="<?php isCurrentPage("index.php") ?>"><a href="index.php">Home</a></li>
+		  <li role="presentation" class="<?php isCurrentPage("flotta.php")?>"><a href="flotta.php">Flotta</a></li>
+		  <li role="presentation" class="<?php isCurrentPage("storia.php")?>"><a href="storia.php">Storia</a></li>
+		  <li role="presentation" class="<?php isCurrentPage("contatti.php")?>"><a href="contatti.php">Contatti</a></li>
+	    </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
