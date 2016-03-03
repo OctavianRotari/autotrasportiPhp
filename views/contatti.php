@@ -1,5 +1,4 @@
 <?php include "header.php"?>
-<body>
 	<h2>Contatti</h2>
 	<form action="send_mail.php" method="">
 	<label for="nome">Il tuo nome</label>

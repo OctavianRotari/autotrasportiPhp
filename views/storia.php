@@ -1,5 +1,4 @@
 <?php include "header.php"?>
-<body>
 <div id="chi_siamo">
 	<h2>Chi siamo</h2>
 	<p id="about_p">

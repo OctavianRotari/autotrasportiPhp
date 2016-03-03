@@ -1,5 +1,4 @@
 <?php include "header.php"?>
-<body>
 	<div id="home_mezzi">
 		<h2>I nostri mezzi</h2>
 		<p>
@@ -29,5 +28,9 @@
 		rapporto di fiducia e rispetto con i nostri lavoratori, l'azienda punta a
 		</p>
 	</div>
+	<h3 id="footer_text">
+	  Indirizzo: via dell'abbondanza Piangipane (RA)
+	  Numero: +39 347 735 3264
+	  Email: dorinrotari@gmail.com</h3>
 </body>
 <?php include "footer.php"?>
