@@ -11,8 +11,8 @@
       <script src="../js/jquery-1.12.1.min.js"></script>
       <script src="../js/bootstrap.js"></script>
     <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
+      <div class="container row-marketing">
+        <div class="navbar-header col-lg-4">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
@@ -21,12 +21,12 @@
           </button>
           <a class="navbar-brand" href="index.php">Autotrasporti Rotari</a>
         </div>
-        <div id="navbar" class="collapse navbar-collapse">
+        <div id="navbar" class="collapse navbar-collapse col-lg-4">
 	    <ul class="nav navbar-nav">
-		  <li role="presentation" class="<?php isCurrentPage("index.php") ?>"><a href="index.php">Home</a></li>
-		  <li role="presentation" class="<?php isCurrentPage("flotta.php")?>"><a href="flotta.php">Flotta</a></li>
-		  <li role="presentation" class="<?php isCurrentPage("storia.php")?>"><a href="storia.php">Storia</a></li>
-		  <li role="presentation" class="<?php isCurrentPage("contatti.php")?>"><a href="contatti.php">Contatti</a></li>
+			<li role="presentation" class="<?php isCurrentPage("index.php") ?> col-sm-3"><a href="index.php">Home</a></li>
+			<li role="presentation" class="<?php isCurrentPage("storia.php")?> col-sm-3"><a href="storia.php">Storia</a></li>
+			<li role="presentation" class="<?php isCurrentPage("flotta.php")?> col-sm-3"><a href="flotta.php">Flotta</a></li>
+			<li role="presentation" class="<?php isCurrentPage("contatti.php")?> col-sm-3"><a href="contatti.php">Contatti</a></li>
 	    </ul>
         </div><!--/.nav-collapse -->
       </div>

@@ -11,6 +11,7 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
+  background: transparent url("../img/highway.jpg") no-repeat;
   padding-top: 60px;
   margin: 0;
 }
@@ -90,6 +91,7 @@ img {
 }
 svg:not(:root) {
   overflow: hidden;
+}
 }
 figure {
   margin: 1em 40px;
@@ -308,7 +310,8 @@ th {
 .glyphicon-music:before {
   content: "\e002";
 }
-.glyphicon-search:before {
+.</div>glyphicon-search:before {
+  <img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="./../img/zimbet2-1-1.jpg" alt="camion">
   content: "\e003";
 }
 .glyphicon-heart:before {
@@ -6758,5 +6761,17 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+
+.my-container {
+  padding: 30px 30px 30px 30px;
+  background-color: #fff !important;
+  opacity: 0.7 !important;
+  border-radius: 6px;
+}
+
+.row-height {
+  height: 120px;
+  margin-bottom: 50px;
 }
 /*# sourceMappingURL=bootstrap.css.map */
