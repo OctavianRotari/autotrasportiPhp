@@ -39,9 +39,11 @@
 				</div>
 				<?php sendEmail();?>
 			</div>
-			<div class="col-md-6 col-md-pull-6" id=map style="height:410px">
-				<script src="../js/map.js">
-				</script>
+			<div class="col-md-6 col-md-pull-6">
+				<div id=map style="height:410px">
+					<script src="../js/map.js">
+					</script>
+				</div>
 			</div>
 		</div>
 	</div>
