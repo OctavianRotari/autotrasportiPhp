@@ -39,8 +39,9 @@
 				</div>
 				<?php sendEmail();?>
 			</div>
-			<div class="col-md-6 col-md-pull-6">
-				<img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="./../img/zimbet2-1-1.jpg" alt="camion">
+			<div class="col-md-6 col-md-pull-6" id=map style="height:410px">
+				<script src="../js/map.js">
+				</script>
 			</div>
 		</div>
 	</div>
