@@ -1097,7 +1097,7 @@ input,
 button,
 select,
 textarea {
-  font-family: inherit;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;;
   font-size: inherit;
   line-height: inherit;
 }
@@ -1189,7 +1189,9 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: Georgia, Arial, serif;
+  font-style: italic;
+;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -4280,11 +4282,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-width: 1px 0 0;
 }
 .navbar-brand {
+  font-family: Georgia, Arial, serif;
+  font-size: 30px !important;
   float: left;
   height: 50px;
   padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
+  color:#39658C !important;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -4601,7 +4606,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
-  color: #9d9d9d;
+  color: #fff;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -4612,7 +4617,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #9d9d9d;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #9d9d9d;
+  color: #fff;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
@@ -6775,5 +6780,10 @@ button.close {
 .row-height {
   height: 120px;
   margin-bottom: 50px;
+}
+.my-navbar-active {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  text-align: center;
 }
 /*# sourceMappingURL=bootstrap.css.map */

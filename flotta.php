@@ -16,16 +16,16 @@
 				    </ol>
 				    <div class="carousel-inner" role="listbox">
 					  <div class="item active">
-						<img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="../img/zimbet2-1-1.jpg" alt="camion">
+						<img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="img/zimbet2-1-1.jpg" alt="camion">
 					  </div>
 					  <div class="item">
-						<img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="../img/zimbet2-1-1.jpg" alt="camion">
+						<img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="img/zimbet2-1-1.jpg" alt="camion">
 					  </div>
 					  <div class="item">
-						<img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="../img/zimbet2-1-1.jpg" alt="camion">
+						<img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="img/zimbet2-1-1.jpg" alt="camion">
 					  </div>
 					  <div class="item">
-						<img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="../img/zimbet2-1-1.jpg" alt="camion">
+						<img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="img/zimbet2-1-1.jpg" alt="camion">
 					  </div>
 				    </div>
 				    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
@@ -64,16 +64,16 @@
 			      </ol>
 			      <div class="carousel-inner" role="listbox">
 				    <div class="item active">
-					  <img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="../img/zimbet2-1-1.jpg" alt="camion">
+					  <img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="img/zimbet2-1-1.jpg" alt="camion">
 				    </div>
 				    <div class="item">
-					  <img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="../img/zimbet2-1-1.jpg" alt="camion">
+					  <img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="img/zimbet2-1-1.jpg" alt="camion">
 				    </div>
 				    <div class="item">
-					  <img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="../img/zimbet2-1-1.jpg" alt="camion">
+					  <img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="img/zimbet2-1-1.jpg" alt="camion">
 				    </div>
 				    <div class="item">
-					  <img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="../img/zimbet2-1-1.jpg" alt="camion">
+					  <img class="featurette-image img-responsive center-block img-rounded" data-src="holder.js/500x500/auto" src="img/zimbet2-1-1.jpg" alt="camion">
 				    </div>
 			      </div>
 			      <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev">

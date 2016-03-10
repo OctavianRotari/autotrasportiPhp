@@ -6,14 +6,14 @@
 			<h2>Visione</h2>
 			<p>
 				l'azienda cerca di soddisfare ogni bisogno e richiesta del cliente
-				instaurando un rapporto di <strong>fiducia</strong>, assumendosi
+				instaurando un rapporto di <strong style="color: #39658C;">fiducia</strong>, assumendosi
 				tutte le responsabilitià derivanti dal trasporto merci.
 				Negli ultimi anni il mondo degli autotrasporti ha subito vari cambiamenti
-				per quanto riguarda le normative <strong>anti-inquinamento</strong>, la nostra compagnia
+				per quanto riguarda le normative <strong style="color: #39658C;">anti-inquinamento</strong>, la nostra compagnia
 				la quale e' molto interessata nel rispetto dell'ambiente ha preso le misure
 				neccessarie sostituendo i vecchi bilici con bilici nuovi per rispettare le
 				normative.
-				Con il desiderio di rimanere un'azienda di <strong>famiglia</strong>, quindi di tenere un
+				Con il desiderio di rimanere un'azienda di <strong style="color: #39658C;">famiglia</strong>, quindi di tenere un
 				rapporto di fiducia e rispetto con i nostri lavoratori, l'azienda punta a
 				espandersi e a iniziare nuove e fruttuose collaborazioni.
 			</p>
@@ -47,11 +47,11 @@
 				<div class="my-container">
 					<h2>Contatti</h2>
 					<p class="row-height">
-						Indirizzo: via dell'abbondanza Piangipane (RA)
+						Indirizzo:<a href="http://maps.google.com/?q=autotrasporti%20rotari" target="_blank"> via dell'abbondanza Piangipane (RA)</a>
 						<br>
-						Numero: +39 347 735 3264
+						Numero: <a href="tel:+393477353264">+39 347 735 3264</a>
 						<br>
-						Email: dorinrotari@gmail.com</p>
+						Email: <a href="mailto:dorinrotari@gmail.com?Subject=information" target="_top">dorinrotari@gmail.com</a></p>
 					<a href="contatti.php" class="btn btn-primary">Scopri altro</a>
 				</div>
 			</div>
