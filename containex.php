@@ -1,5 +1,4 @@
 <?php include "header.php"?>
-
 <body>
 <div class="row-marketing">
 <div class="col-sm-12">
@@ -40,16 +39,19 @@
 			</div>
 		  <div class="col-md-7 col-md-pull-5">
 			<div class="my-container">
-				  <h2 class="featurette-heading">Motrici</h2>
+				  <h2 class="featurette-heading">Servizi container</h2>
 				  <p class="lead">
-					Il nostro Parco Mezzi, viene normalmente controllato e periodicamente rinnovato
-					risultando così sempre più all’avanguardia tecnologica e sempre più eco-compatibile.
-					Tutti gli ultimi camion entrati a far parte della nostra flotta sono Euro 4, Euro 5,
-					e Euro 6. I nostri sistemi di antifurto e il costante controllo dell’ubicazione dei
-					nostri mezzi attraverso sistemi di localizzazione satellitare ci consentono poi di
-					offrirvi un servizio sicuro. I nostri sistemi di antifurto e il costante controllo dell’ubicazione dei
-					nostri mezzi attraverso sistemi di localizzazione satellitare ci consentono poi di
-					offrirvi un servizio sicuro.
+					La nostra ditta si occupa anche di vendita, noleggio, montaggio, smontaggio e trasporto
+					di prefabricati ad uso ufficio ad uso spogliatoio o mensa  che possono formare impianti
+				   	prefabricati(prefabricati modulare ad uso sanitario, prefabricato ad uso wc).
+				   	L'azienda che fornisce i container alla nostra impresa e' la <a href="http://www.containex.it/it?gclid=Cj0KEQiA3t-2BRCKivi-suDY24gBEiQAX1wiXJi5a2pvCA7pwVAlh4qbSSWXwPioe47I0d9S7-CLUD4aAtHR8P8HAQ" target="_blank">CTX Containex</a>.
+ famosa in tutta Europa.
+					Quest'ultima e' molto attiva anche nei servizi di assistenza in caso di calamita 
+					naturali infatti molto spesso fornisce alloggi temporanei con i prefabricati.
+					L'Autotrasporti Rotari Srl prende questo lavoro con molta serieta e non solo offre 
+					tutti i servizi sopra elencati ma anche il servizio di assistenza una volta montato
+					o venduto il container. Per richiesta di preventivi chiamare 
+					<a href="tel:+393477353264">+39 347 735 3264</a>
 				  </p>
 			</div>
 		</div>

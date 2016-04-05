@@ -1,0 +1,1 @@
+<meta name="description" content="Ravenna Autotrasporti Rotari si occupa di trasporto merci a livello nazionale e internazionale. Trasporta principalmente materiale ferroso e container ma possiede anche le macchine adatte per il trasporto di qualsiasi merce.">
