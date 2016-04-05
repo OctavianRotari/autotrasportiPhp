@@ -1,5 +1,5 @@
 var map;
-function initMap(){
+function googleMap(){
 	var myLatLeng = {lat: 44.4287147, lng: 12.08003};
 	var titleOfMarker = "Autotrasporti Rotari";
 	map = new google.maps.Map(document.getElementById('map'), {

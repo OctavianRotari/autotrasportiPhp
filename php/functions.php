@@ -17,11 +17,12 @@ function sendEmail() {
 		$email = $_POST['email'];
 		$number = $_POST['numero'];
 		$text = $_POST['text'] . '<br> Spedita da: ' . $name . ' Email: ' . $email . '<br> Numero telefonico: ' . $number;
+		$header = "From:" . $email;
 		$message = "Completare tutti i campi " . $name . $email . $text;
 		if(empty($name) || empty($email) || empty($text) || empty($number)){
 			echo "<script type='text/javascript'>alert('$message')</script>";
 		} else {
-			$result = mail('octavianrotari@gmail.com', $name, $text);
+			$result = mail('octavianrotari@gmail.com', $name, $text, $header);
 			if(!$result){
 				echo "<h3>email not sent</h3>";
 			} else {

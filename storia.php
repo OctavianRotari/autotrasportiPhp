@@ -17,7 +17,7 @@
 			<div class="my-container">
 				<h2>Storia</h2>
 				<p>
-				L’azienda inizia ad operare nel settore dei trasporti nel 2011. Grazie
+				L’azienda inizia ad operare nel settore dei trasporti nel 2010. Grazie
 				all’impegno e serietà del suo fondatore Rotari Dorin, autotrasportatore già dai
 				18 anni lavorava per conto proprio nei paesi dell'est piu precisamente in Moldavia
 				trasportanto merci sul territorio nazionale ma anche nei paesi adiacenti.

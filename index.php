@@ -1,7 +1,7 @@
 <?php include "header.php"?>
 
 <body>
-	<div class="container">
+	<div class="container ">
 		<div class="jumbotron">
 			<h2>Visione</h2>
 			<p>
@@ -19,39 +19,52 @@
 			</p>
 		</div>
 		<div class="row marketing">
-			<div class="col-lg-4">
+			<div class="col-lg-3">
 				<div class="my-container">
-					<h2>I nostri mezzi</h2>
+					<h3>I nostri mezzi</h3>
 					<p>
 						L'Autotrasporti Rotari ha sede a Piangipane in provincia di Ravenna.
 						Principalmente la nostra ditta lavora con autoarticolati e siamo specializzati
 						nel trasporto di ferro ( coil, lamine, tubi ecc), di container e merci di altro
-						genere. I nostri rimorchi sono dei centinati, a centina fissa e mobile,
-						con la buca coil per eventuale bisogno.
+						genere.
 					</p>
 					<a href="flotta.php" class="btn btn-primary">Scopri altro</a>
 				</div>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-lg-3">
 				<div class="my-container">
-					<h2>Collaborazioni</h2>
-					<p class="row-height">
-						Principalmente la nostra ditta lavora con autoarticolati e siamo specializzati
-						nel trasporto di ferro ( coil, lamine, tubi ecc), di container e merci di altro
-						genere. I nostri rimorchi sono dei centinati, a centina fissa e mobile,
-					</p>
+					<h3>Collaborazioni</h3>
+					<p>
+						La nostra ditta collabora con la impresa metalurgica 
+						<a href="http://www.marcegaglia.com/officialwebsite/" target="_blank">Marcegaglia</a> e siamo specializzati
+						nel trasporto di ferro ( coil, lamine, tubi ecc). Ma collabora anche con la 
+						<a href="http://www.containex.it/it?gclid=Cj0KEQiA3t-2BRCKivi-suDY24gBEiQAX1wiXJi5a2pvCA7pwVAlh4qbSSWXwPioe47I0d9S7-CLUD4aAtHR8P8HAQ" target="_blank">CTX Containex</a> 
+						di conseguenza ci siamo specilizati nel trasporto di container.
+						</p>
 					<a href="storia.php" class="btn btn-primary">Scopri altro</a>
 				</div>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-lg-3">
 				<div class="my-container">
-					<h2>Contatti</h2>
+					<h3>Vendita e noleggio container</h3>
+					<p class="row-height">
+						La nostra ditta si occupa di trasporto, montaggio, smontaggio, noleggio, 
+						vendita e assistenxa a un livello professionale di container a uso ufficio e marittimi per conto della 
+						<a href="http://www.containex.it/it?gclid=Cj0KEQiA3t-2BRCKivi-suDY24gBEiQAX1wiXJi5a2pvCA7pwVAlh4qbSSWXwPioe47I0d9S7-CLUD4aAtHR8P8HAQ" target="_blank">CTX Containex</a>.
+					</p>
+					<a href="containex.php" class="btn btn-primary">Scopri altro</a>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div class="my-container">
+					<h3>Contatti</h3>
 					<p class="row-height">
 						Indirizzo:<a href="http://maps.google.com/?q=autotrasporti%20rotari" target="_blank"> via dell'abbondanza Piangipane (RA)</a>
 						<br>
 						Numero: <a href="tel:+393477353264">+39 347 735 3264</a>
 						<br>
 						Email: <a href="mailto:dorinrotari@gmail.com?Subject=information" target="_top">dorinrotari@gmail.com</a></p>
+						<br>
 					<a href="contatti.php" class="btn btn-primary">Scopri altro</a>
 				</div>
 			</div>

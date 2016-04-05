@@ -1,0 +1,18 @@
+[01-Apr-2016 16:24:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/y31nln5c/public_html/cms_php_project/admin/includes/functions/db.php on line 11
+[01-Apr-2016 16:24:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/y31nln5c/public_html/cms_php_project/admin/includes/functions/db.php on line 14
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/y31nln5c/public_html/cms_php_project/admin/includes/functions/common_functions.php on line 75
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_role in /home/y31nln5c/public_html/cms_php_project/admin/includes/admin_sidebar.php on line 18
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_role in /home/y31nln5c/public_html/cms_php_project/admin/includes/admin_sidebar.php on line 31
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 9
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 23
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 45
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_role in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 60
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 113
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 114
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 115
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 116
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 117
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 118
+[01-Apr-2016 16:26:50 UTC] PHP Notice:  Undefined index: user_name in /home/y31nln5c/public_html/cms_php_project/admin/index.php on line 124
+[01-Apr-2016 16:27:32 UTC] PHP Notice:  Undefined index: user_password in /home/y31nln5c/public_html/cms_php_project/admin/includes/functions/admin_profile_functions.php on line 9
+[01-Apr-2016 16:32:05 UTC] PHP Fatal error:  Call to undefined function updateCommentInDb() in /home/y31nln5c/public_html/cms_php_project/admin/includes/comment_edit.php on line 2

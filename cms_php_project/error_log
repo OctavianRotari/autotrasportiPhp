@@ -1,0 +1,4 @@
+[01-Apr-2016 16:15:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/y31nln5c/public_html/cms_php_project/includes/functions/db.php on line 11
+[01-Apr-2016 16:15:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/y31nln5c/public_html/cms_php_project/includes/functions/db.php on line 14
+[01-Apr-2016 16:35:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/y31nln5c/public_html/cms_php_project/includes/functions/common_functions.php on line 69
+[01-Apr-2016 16:35:17 UTC] PHP Notice:  Undefined index: page in /home/y31nln5c/public_html/cms_php_project/includes/show_num_page.php on line 36
